@@ -1,0 +1,32 @@
+cd
+which
+pwd 問在何處
+ls
+mkdir 建立目錄
+clear
+touch 建立檔案
+rm 刪除檔案
+cp copy
+echo 廣播
+cat 看文字內容
+-----------------
+git init 初始化管理
+git status 檢視目前狀態
+git add將檔案放在暫存區stage
+git rm --cache flile 取消在暫存的檔案
+git commit 建立commit
+git log 檢視commit
+git config  git的環境設定
+git push
+-----------------------------
+workingtree 變更
+staged 暫存變更
+-----------------------------
+常用
+cd "C:\Users\user\Documents\GitHub"
+ls 
+ls -al
+git clone +網址
+- 等於是css的ul li
+1. 同上只是變目錄式
+git push --force 同步上傳
